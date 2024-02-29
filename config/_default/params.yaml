@@ -23,10 +23,10 @@ twitter: ''
 email: ariel.j.kwiatkowski+rtme@gmail.com
 phone:
 address:
-  street: 1 rue Honoré d’Estienne d’Orves
-  city: Palaiseau
+  street:
+  city: Paris
   region:
-  postcode: '91120'
+  postcode:
   country: France
   country_code: FR
 coordinates:
