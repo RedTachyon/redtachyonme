@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Ariel Kwiatkowski
+title: Ariel Kwiatkowski, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Artificial Intelligence
+role: AI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: École Polytechnique
-  url: https://www.lix.polytechnique.fr/geovic/index.html
+- name: AI Redefined
+  url: https://ai-r.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in finding out what makes brains tick - preferably by making artificial tickers.
@@ -19,8 +19,8 @@ bio: I'm interested in finding out what makes brains tick - preferably by making
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Crowd Simulation
 - Reinforcement Learning
+- Human-in-the-loop Learning
 
 
 education:
@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student at the Geometric & Visual Computing (GeoVIC) group at École Polytechnique in France. Working as part of the [CLIPE ITN](https://clipe-itn.eu) project funded by the [<span style="color:blue">**European Union**</span>](https://www.youtube.com/watch?v=Jo_-KoBiBG0), I'm looking into the applications of Multiagent Reinforcement Learning in the area of Crowd Simulation, following up on my previous Master's work about ad-hoc cooperation in MARL via Theory of Mind.
+AI researcher at AI Redefined where I'm building tooling for human-in-the-loop RL. PhD from École Polytechnique, my thesis topic was "Simulating Crowds with Reinforcement Learning". In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
+
+In my free time, I'm the maintainer of Gymnasium (the official continuation of OpenAI Gym), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also help with PettingZoo, SuperSuit and other projects in the Farama Foundation.
+
+Erdős number <= 4
