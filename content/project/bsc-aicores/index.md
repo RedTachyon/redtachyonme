@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-08-02T23:45:00+03:00
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
