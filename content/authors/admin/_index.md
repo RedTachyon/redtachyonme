@@ -44,19 +44,19 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Human-in-the-loop Learning
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: École Polytechnique
+    date_start: 2020-10-01
+    date_end: 2023-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "Simulating Crowds with Reinforcement Learning"
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://theses.hal.science/tel-04528916/'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
