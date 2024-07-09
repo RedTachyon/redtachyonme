@@ -57,28 +57,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-04528916/'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Autonomous Systems
+    institution: KTH Royal Institute of Technology & Aalto University
+    date_start: 2018-08-18
+    date_end: 2020-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Double Master's via the EIT Digital Master School.
+  - area: BSc Physics
+    institution: University of Warsaw
+    date_start: 2015-10-01
+    date_end: 2018-07-31
     summary: |
-      GPA: 3.4/4.0
+      Physics, individual track.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
