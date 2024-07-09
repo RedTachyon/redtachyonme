@@ -71,17 +71,14 @@ education:
       Physics, individual track.
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: AI Researcher
+    company_name: AI Redefined
+    company_url: 'https://ai-r.com'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-10-01
+    date_end: 2024-07-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Something Cogment Lab
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
