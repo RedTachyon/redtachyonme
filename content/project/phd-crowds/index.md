@@ -6,7 +6,7 @@ summary: "Simulating Crowds with Reinforcement Learning"
 authors: []
 tags: []
 categories: []
-date: 2020-08-02T23:45:00+03:00
+date: 2023-11-30T12:00:00+01:00
 weight: 1
 
 # Optional external URL for project (replaces project detail page).

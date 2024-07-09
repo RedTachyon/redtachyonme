@@ -6,7 +6,7 @@ summary: "High frequency airborne temperature measurements analyzed with AI tech
 authors: []
 tags: []
 categories: []
-date: 2020-08-02T23:45:00+03:00
+date: 2018-07-05T12:00:00+01:00
 weight: 3
 
 # Optional external URL for project (replaces project detail page).
