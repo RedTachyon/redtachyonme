@@ -167,9 +167,11 @@ awards:
 
 ## About Me
 
+<div style="color: #FFF;">
 AI researcher at AI Redefined where I'm building tooling for human-in-the-loop RL. 
 I got my PhD from École Polytechnique, my thesis topic was "Simulating Crowds with Reinforcement Learning". In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
 
 In my free time, I'm the maintainer of Gymnasium (the official continuation of OpenAI Gym), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also help with PettingZoo, SuperSuit and other projects in the Farama Foundation.
 
 Erdős number <= 4
+</div>
