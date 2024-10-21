@@ -24,7 +24,7 @@ role: Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Find out soon!
+  - name: Meta AI
     url: https://redtachyon.me
 
 # Social network links
